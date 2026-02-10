@@ -9,7 +9,6 @@
 
 ## 🧑‍💻 <span style="font-size: 20px;">About Me</span>
 
-<img src="https://media.tenor.com/nu3aPI_DEFwAAAAM/anime-wave.gif" height="100" align="right"/>
 
 - 🔥 I'm a **Full-Stack Developer** with a passion for building scalable applications and engaging **open-source projects**.
 - 💡 I love exploring **new technologies**, especially in **blockchain, AI, and cloud computing**.
