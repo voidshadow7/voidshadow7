@@ -1,19 +1,147 @@
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voidshadow7&label=Profile%20views&color=0e75b6&style=flat" alt="voidshadow7" /> </p>
+<div align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&width=100%&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voidshadow7" alt="voidshadow7" /></a> </p>
+<h2 align="center" style="font-size: 22px;"> Hi there! 👋 I'm Ayush (aka Voidshadow) </h2>
+<h3 align="center"> A Passionate Full-Stack Developer from India 🚀 </h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+## 🧑‍💻 <span style="font-size: 20px;">About Me</span>
+
+<img src="https://media.tenor.com/nu3aPI_DEFwAAAAM/anime-wave.gif" height="100" align="right"/>
+
+- 🔥 I'm a **Full-Stack Developer** with a passion for building scalable applications and engaging **open-source projects**.
+- 💡 I love exploring **new technologies**, especially in **blockchain, AI, and cloud computing**.
+- 🚀 Currently building **a blockchain-based portfolio management system** while learning AI/ML with Python.
+- 🎯 My goal is to bridge **technology and real-world impact**, developing solutions that enhance user experiences.
+- 🛠 Constantly refining my skills and pushing the boundaries of **modern web development**.
+
+---
+
+## 🛠 Tech Stack & Technologies
+
+### 🚀 Frontend
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html"/></a> HTML5
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css"/></a> CSS3
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"/></a> JavaScript
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a> React.js
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs"/></a> Next.js
+  <a href="https://redux.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=redux"/></a> Redux
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"/></a> Tailwind CSS
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap"/></a> Bootstrap
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react"/></a> React Native
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript"/></a> TypeScript
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 💾 Backend & Database
+<p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a> Node.js
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express"/></a> Express.js
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs"/></a> NestJS
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"/></a> MongoDB
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase"/></a> Firebase
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"/></a> MySQL
+  <a href="https://appwrite.io/" target="_blank"><img src="https://skillicons.dev/icons?i=appwrite"/></a> Appwrite
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voidshadow7&show_icons=true&locale=en&layout=compact" alt="voidshadow7" /></p>
+### 🖥 Programming Languages
+<p>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp"/></a> C++
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a> Python
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=voidshadow7&show_icons=true&locale=en" alt="voidshadow7" /></p>
+### 🛠 Tools & Platforms
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"/></a> Git
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a> GitHub
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"/></a> VS Code
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman"/></a> Postman
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma"/></a> Figma
+  <a href="https://chartjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python"/></a> Chart.js
+  <a href="https://linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux"/></a> Linux
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel"/></a> Vercel
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=voidshadow7&" alt="voidshadow7" /></p>
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Portfolio">Portfolio</a></h3>
+      <p>
+        🔹 A personal portfolio website showcasing my projects.<br>
+        🔹 Showcasing my journey, projects, and skills in one place.<br><br><br>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-blue" />
+        <img src="https://img.shields.io/badge/-Next.js-black" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/DocCures-Frontend">DocCures Frontend</a></h3>
+      <p>
+        🚀 A healthcare platform frontend for smooth appointment booking.<br>
+        🚀 A modern solution for efficient and stress-free healthcare management.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-Redux-purple" />
+        <img src="https://img.shields.io/badge/-Express.js-green" />
+        <img src="https://img.shields.io/badge/-MongoDB-darkgreen" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-blueviolet" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/DataFetchReact">DataFetchReact</a></h3>
+      <p>
+        🔹 A lightweight React.js app demonstrating seamless API integration.<br>
+        🔹 Shows real-time data fetching and rendering.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-API.fetching-orange" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/FoodFinder_Frontend">FoodFinder Frontend</a></h3>
+      <p>
+        🍔 A food delivery app frontend with cart management.<br>
+        🍔 Providing a seamless connection between users and restaurants.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-React.js-blue" />
+        <img src="https://img.shields.io/badge/-Redux-purple" />
+        <img src="https://img.shields.io/badge/-Express.js-green" />
+        <img src="https://img.shields.io/badge/-MongoDB-darkgreen" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Argus-66/Weather.github.io">Weather App</a></h3>
+      <p>
+        🌦 A real-time weather web app using WeatherAPI.<br>
+        🌦 Making weather tracking effortless and accessible.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-orange" />
+        <img src="https://img.shields.io/badge/-CSS-blue" />
+        <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Contribution Activity
+<p align="center">
+  <img src="https://github.com/Argus-66/Argus-66/blob/output/snake.svg" alt="Snake Animation" />
+</p>
