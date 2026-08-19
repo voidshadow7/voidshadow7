@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&width=100%&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn" />
 </div>
 
-<h2 align="center" style="font-size: 22px;"> Hi there! 👋  (aka Voidshadow) </h2>
+<h2 align="center" style="font-size: 22px;"> Hi there!👋 Im Ayush (aka Voidshadow) </h2>
 <h3 align="center"> A Passionate Full-Stack Developer from India 🚀 </h3>
 
 
